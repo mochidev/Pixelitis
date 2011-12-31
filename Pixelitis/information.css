@@ -31,7 +31,8 @@ img {
 }
 
 mark {
-	color: rgb(100, 30, 30)
+	color: rgb(100, 30, 30);
+    background-color: transparent;
 }
 
 p {

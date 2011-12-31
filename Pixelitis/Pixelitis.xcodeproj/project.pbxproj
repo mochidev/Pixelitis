@@ -146,6 +146,7 @@
 		6576DFA811FD5F1C0094DF19 /* DefaultiPad-Portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DefaultiPad-Portrait.png"; sourceTree = "<group>"; };
 		6576DFA911FD5F1C0094DF19 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 		6576DFAA11FD5F1C0094DF19 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		658E2C5B14AFCDF9004E1A3A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		65E0199C11FFB6A6006BBE3D /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
 		65E019A911FFD33A006BBE3D /* FA1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FA1.png; sourceTree = "<group>"; };
 		65E019AA11FFD33A006BBE3D /* FA2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FA2.png; sourceTree = "<group>"; };
@@ -191,6 +192,7 @@
 		6566B7C211FB849D00200B3A = {
 			isa = PBXGroup;
 			children = (
+				658E2C5B14AFCDF9004E1A3A /* README.md */,
 				6566B7C911FB849D00200B3A /* iPhone */,
 				6566B7CA11FB849D00200B3A /* iPad */,
 				6566B7CB11FB849D00200B3A /* Classes */,
